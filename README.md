@@ -10,6 +10,7 @@
 - 📫 How to reach me **ranaawaismanzoor@gmail.com**
 
 - 📄 Know about my experiences :
+
  ▪ Experienced and self-motivated Software Test Engineer with a strong technical background
 
  ▪ 3+ years of experience in Automated and Manual testing of Web, Mobile and Desktop Applications using Selenium WebDriver, Cypress, Playwright, Appium, WinAppDriver or API Automation using Postman, Cypress and  
