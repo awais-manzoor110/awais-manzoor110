@@ -6,9 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/awais-manzoor110](https://github.com/awais-manzoor110)
 
 - 💬 Ask me about **Web, Mobile, Desktop and API Automation**
-
-- 📫 How to reach me **ranaawaismanzoor@gmail.com**
-
+  
 
 📄 **Know about my experiences :**
 
