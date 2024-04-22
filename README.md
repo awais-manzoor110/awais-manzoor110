@@ -11,7 +11,7 @@
 📄 **Know about my experiences :**
 
 - Experienced and self-motivated Software Test Engineer with a strong technical     background
- - 3+ years of experience in Automated and Manual testing of Web, Mobile and Desktop          Applications using Selenium WebDriver, Cypress, Playwright, Appium, WinAppDriver or API Automation using Postman, Cypress and  
+ - 3.5+ years of experience in Automated and Manual testing of Web, Mobile and Desktop          Applications using Selenium WebDriver, Cypress, Playwright, Appium, WinAppDriver or API Automation using Postman, Cypress and  
    Python Requests or Zephyr , TestRail and Excel for Test-cases.  
  - Excellent communication skills with a strong background working directly with coworkers to identify business objectives and establish requirements; delivered high-quality solutions that met or exceeded 
    expectations.
