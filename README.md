@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Playwright,Cypress,Selenium and Appium**
 
-- 👨‍💻 All of my projects are available at [https://github.com/awais-manzoor110](https://github.com/awais-manzoor110)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/awais-manzoor110?tab=repositories)
 
 - 💬 Ask me about **Web, Mobile, Desktop and API Automation**
   
